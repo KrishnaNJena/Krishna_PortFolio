@@ -1,1 +1,1 @@
-#### Project 1: Wafer Fault Detection
+# Project 1: Wafer Fault Detection
