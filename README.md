@@ -45,14 +45,15 @@
 #### Overview: 
 
 * Identify the Product’s popularity or to sell a product based on information available from Audio Data.
-• Survey Data 0f 10K Customers i.e., extract Audio data to text on offline speech API. Break the Audio into chunks, Spell Correction & extract the keywords & visualize it.
-• Technology: Flask, Python, Flash Text, NeuSpell, Spacy, etc.,
+* Survey Data 0f 10K Customers i.e., extract Audio data to text on offline speech API. 
+* Break the Audio into chunks, Spell Correction & extract the keywords & visualize it.
+* Technology: Flask, Python, Flash Text, NeuSpell, Spacy, etc.,
 
 # Project 6: Megatron
 
 #### Overview: 
 
 * Build Advance level of chatbot, a Conversational AI interact with system get relatable solutions.
-• Design a Human Interface which possible answers based on data provided i.e., Text, Speech, Screenshot of Image, Videos.
-• Technology: AWS System, database- Mongo dB, Elastic Net, latlong API, Google Search API, OCR
-• Scale multiple languages & system get required solution, based on categorization of data.
+* Design a Human Interface which possible answers based on data provided i.e., Text, Speech, Screenshot of Image, Videos.
+* Technology: AWS System, database- Mongo dB, Elastic Net, latlong API, Google Search API, OCR
+* Scale multiple languages & system get required solution, based on categorization of data.
