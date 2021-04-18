@@ -57,3 +57,4 @@
 * Design a Human Interface which possible answers based on data provided i.e., Text, Speech, Screenshot of Image, Videos.
 * Technology: AWS System, database- Mongo dB, Elastic Net, latlong API, Google Search API, OCR
 * Scale multiple languages & system get required solution, based on categorization of data.
+
