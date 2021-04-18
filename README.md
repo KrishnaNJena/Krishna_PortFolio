@@ -35,9 +35,9 @@
 * Achieved 59 FPS with MAP 76.9 % with 1000 label image using SSD Model in Google Colab NVIDIA GPU P100.
 * Technology: Flask, Python, Open-CV, etc.,
 
-# Project 2: [Automatic Number Plate Recognition](https://github.com/KrishnaNJena/ANPR-Detection)
+>Project 2: [Automatic Number Plate Recognition](https://github.com/KrishnaNJena/ANPR-Detection)
 
-#### Overview:
+>Overview:
 
 * Objective is to Capture, Identify the Number plate from the Vehicle in parking hub system & extract them using Computer Vision & OCR technique.
 * Achieved 45 FPS with MAP 60.2 % with 400 label images using Faster RCNN Model in Google Colab NVIDIA GPU P100.
@@ -54,7 +54,7 @@
 * Break the Audio into chunks, Spell Correction & extract the keywords & visualize it.
 * Technology: Flask, Python, Flash Text, NeuSpell, Spacy, etc.,
 
->roject 6: Megatron
+>Project 6: Megatron
 
 >Overview: 
 
